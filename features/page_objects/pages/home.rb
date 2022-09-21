@@ -20,7 +20,7 @@ class Home < SitePrism::Page
      camp_senha.set senha
      btn_entrar.click
     end
-    ###Poesquisar Produto###
+    ###Pesquisar Produto###
     def pesquisar_pdt(produto)
       pesquisar.click #clica na caixa de texto
       pesquisar.set produto #inseri o nome do produto
