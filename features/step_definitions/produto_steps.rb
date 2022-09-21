@@ -4,7 +4,7 @@ Dado('que acesse a home') do
 end
 
 Dado('esteja logado') do
-    @home_page.login("bruno@teste.com.br","12345")
+    @home_page.login("caua2033@hotmail.com","141414")
   end
   ## Produto Existente ###
   Quando('realizar uma busca por um produto existente') do

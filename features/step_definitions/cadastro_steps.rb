@@ -5,11 +5,11 @@ Dado('que esteja na pagina de cadastro') do
   
   ###Cadastro usuário comum###
   Quando('informar os campos {string},{string},{string}') do |nome, email, senha|
-    @home_page.cadastro_user("dani","dani440@gmail.com","12345")
+    @home_page.cadastro_user(nome,email,senha)
   end
   
   Quando('exibir a mensagem {string}') do |msg|
-    expect(@home_page).to have_content("Cadastro realizado com sucesso")
+    expect(@home_page).to have_content(msg)
   end
   
   Então('cadastro deverá ser concluido') do
