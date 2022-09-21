@@ -87,7 +87,7 @@ Olá, me chamo Christian e estou cursando Sistemas para Internet, este projeto v
 * [Linkedin](https://www.linkedin.com/in/christian-oliveira-da-silva/)
 
 ## Contribuidores
-[Compass](https://compass.uol)- Larissa Campos
+[Compass](https://compass.uol)- Larissa Campos,
 Bruno Guimaraes
 
 ## License
