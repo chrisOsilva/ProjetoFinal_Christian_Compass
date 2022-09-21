@@ -18,7 +18,7 @@ Cenário: Cadastro de usuário comum
 
   Exemplos:
   |nome |email                |senha |msg                           |
-  |caua |caua2033@hotmail.com |141414|Cadastro realizado com sucesso|
+  |caua |caua2082@hotmail.com |141414|Cadastro realizado com sucesso|
   # |erick|erick2420@hotmail.com|777774|Cadastro realizado com sucesso|
   # |caue |caue2254@hotmail.com |456785|Cadastro realizado com sucesso|
   # |fabio|fabio1660@hotmail.com|344356|Cadastro realizado com sucesso|
@@ -31,4 +31,4 @@ Cenário: Cadastro de usuário adm
 
   Exemplos:
   |nome   |email            |senha |
-  |daniela|dani333@gmail.com|151515|
+  |daniela|dani394@gmail.com|151515|

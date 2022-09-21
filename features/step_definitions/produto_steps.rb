@@ -25,11 +25,11 @@ Dado('esteja logado') do
 
   ###Adicionar Produto a lista de compras###
   Quando('buscar por um produto desejado') do
-    @home_page.pesquisar_pdt('Modern Cotton Sausages')
+    @home_page.pesquisar_pdt('Handmade Granite Mouse')
   end
   
   Quando('clicar em adicionar a lista') do
-    @home_page.add_pdt_list('Modern Cotton Sausages')
+    @home_page.add_pdt_list('Handmade Granite Mouse')
   end
   
   Então('o produto deverá ser exibido na lista de compras') do
