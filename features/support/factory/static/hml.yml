@@ -1,0 +1,5 @@
+valid_product: "Logitech MX Vertical"
+invalid_product: "Tv Lg"
+user_for_login:
+  email: 'testehml@compass.com.br'
+  password: '1234567'

@@ -1,0 +1,11 @@
+valid_product: Logitech MX Vertical
+invalid_product: Tv Lg
+msg_pdt_not_found: Nenhum produto foi encontrado
+page_lista_compras: "https://front.serverest.dev/minhaListaDeProdutos"
+page_home: "https://front.serverest.dev/home"
+cad_sucesso: Cadastro realizado com sucesso
+user_for_login:
+  email: teste@compass.com.br
+  senha: 1234567
+
+

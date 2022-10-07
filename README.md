@@ -76,7 +76,7 @@ Os testes começam automaticamente.
 ## Tecnologias utilizadas
 * [Cucumber] (https://cucumber.io/)
 * [Ruby] (https://www.ruby-lang.org/pt/)
-* Selenium
+* Selenium WebDriver 4.0
 
 ## Autores
 
@@ -87,13 +87,15 @@ Olá, me chamo Christian e estou cursando Sistemas para Internet, este projeto v
 * [Linkedin](https://www.linkedin.com/in/christian-oliveira-da-silva/)
 
 ## Contribuidores
-[Compass](https://compass.uol)- Larissa Campos,
-Bruno Guimaraes
+[Compass](https://compass.uol) - Larissa Campos - Bruno Leite Mesquita - Jacques de Jesus Figueredo Schmitz J.
+
 
 ## License
 
 [MIT LICENSE](https://github.com/chrisOsilva/ProjetoFinal_Christian_Compass/blob/main/LICENSE)
 
 ## Créditos
-* [Medium](https://medium.com/cwi-software/automatizando-testes-de-aplica%C3%A7%C3%B5es-web-com-capybara-e-selenium-webdriver-8e630c7f6f03))
+* [Medium](https://medium.com/cwi-software/automatizando-testes-de-aplica%C3%A7%C3%B5es-web-com-capybara-e-selenium-webdriver-8e630c7f6f03)
 * [YouTube](https://www.youtube.com/watch?v=nh-tU29Tm8s&t=7791s)
+* [CWI](https://cwi.com.br/blog/automacao-de-testes-o-que-precisamos-planejar-antes-de-iniciar/)
+* [REVELO](https://blog.revelo.com.br/teste-funcional/)
